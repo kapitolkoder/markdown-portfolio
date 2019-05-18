@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* My Interests
+  * Making beats
+  * Creating content ideas
+  * Hanging out with my girlfriend
+  * Cars
+* My Career Goals
+  * Become a music producer
+  * Get all my freecodecamp.com certifications to become a full stack developer
+  * Develop and AR framework for creators who want to display their work in augmented reality.
