@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Very** Determined
+
+Hardworking
+
+Knowledgeable in _SQL_, _C++_, _Java_ & _C_
